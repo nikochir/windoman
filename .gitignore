@@ -1,0 +1,39 @@
+# file #
+
+## general
+
+**/.DS_Store
+
+## binaries
+
+### debug symbols
+
+**/*.d
+
+### output files
+
+**/*.o
+**/*.obj
+**/*.out
+
+### executables
+
+**/bin/**/*.app
+**/bin/**/*.exe
+
+## environment
+
+### visual studio code extensions
+
+**/env/.vscode/cache/
+**/env/.vscode/*.BROWSE*
+
+**/env/.vscode/*.dat
+**/env/.vscode/cxxdata*
+**/env/.vscode/CXXDATA*
+
+## visual studio
+
+**/env/.vs/.vcx*
+
+# endf #
